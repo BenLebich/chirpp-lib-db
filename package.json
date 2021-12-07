@@ -1,11 +1,19 @@
 {
-  "name": "chirpp-lib",
+  "name": "@chirpp/lib-db",
   "version": "1.0.0",
-  "description": "Library for Chirpp",
+  "description": "Library for Chirpp DB",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ben Lebich",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenLebich/chirpp-lib-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenLebich/chirpp-lib-db/issues"
+  },
+  "homepage": "https://github.com/BenLebich/chirpp-lib-db#readme"
 }
