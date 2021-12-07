@@ -1,0 +1,11 @@
+{
+  "name": "chirpp-lib",
+  "version": "1.0.0",
+  "description": "Library for Chirpp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Lebich",
+  "license": "ISC"
+}
